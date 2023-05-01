@@ -1,7 +1,7 @@
 # Linkedin clone using React JS & Firebase
 
 ### Demo link
-##### linkedinclonepro.netlify.app
+##### {`linkedinclonepro.netlify.app`}
 
 ## Description
  ##### The authentication feature ensures that only authorized users can access the clone. Users can create a new account, sign in, and sign out using their email and password.
